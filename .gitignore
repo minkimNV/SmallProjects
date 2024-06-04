@@ -1,2 +1,14 @@
+# Ignore large files
 AnimeRecommendation/rating.csv
 CreditCard/.ipynb_checkpoints/train-checkpoint.csv
+
+# Other common ignores
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+
+*.csv
+*.zip*.csv
