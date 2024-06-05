@@ -11,7 +11,8 @@ CreditCard/.ipynb_checkpoints/train-checkpoint.csv
 
 
 *.csv
-*.zip*.csv
+*.zip
+*.csv
 *.csv
 
 
