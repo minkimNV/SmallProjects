@@ -18,3 +18,4 @@ CreditCard/.ipynb_checkpoints/train-checkpoint.csv
 
 echo '*.csv' >> .gitignore
 .ipynb_checkpoints
+echo .ipynb_checkpoints >> .gitignore
